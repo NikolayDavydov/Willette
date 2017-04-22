@@ -1,0 +1,10 @@
+C:\Users\Николай\Source\Workspaces\Willett 405\Willett_405\Willett_405\bin\x86\Debug\Willett_405.exe.config
+C:\Users\Николай\Source\Workspaces\Willett 405\Willett_405\Willett_405\bin\x86\Debug\Willett_405.exe
+C:\Users\Николай\Source\Workspaces\Willett 405\Willett_405\Willett_405\bin\x86\Debug\Willett_405.pdb
+C:\Users\Николай\Source\Workspaces\Willett 405\Willett_405\Willett_405\obj\x86\Debug\Willett_405.Form1.resources
+C:\Users\Николай\Source\Workspaces\Willett 405\Willett_405\Willett_405\obj\x86\Debug\Willett_405.Properties.Resources.resources
+C:\Users\Николай\Source\Workspaces\Willett 405\Willett_405\Willett_405\obj\x86\Debug\Willett_405.csproj.GenerateResource.Cache
+C:\Users\Николай\Source\Workspaces\Willett 405\Willett_405\Willett_405\obj\x86\Debug\Willett_405.exe
+C:\Users\Николай\Source\Workspaces\Willett 405\Willett_405\Willett_405\obj\x86\Debug\Willett_405.pdb
+C:\Users\Николай\Source\Workspaces\Willett 405\Willett_405\Willett_405\obj\x86\Debug\Willett_405.Error.resources
+C:\Users\Николай\Source\Workspaces\Willett 405\Willett_405\Willett_405\obj\x86\Debug\Willett_405.csprojResolveAssemblyReference.cache
